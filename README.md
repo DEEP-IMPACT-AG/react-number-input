@@ -1,3 +1,7 @@
+This is a fork for Deep Impact AG. The fork was made on the version 15.5.1 from react-number-input.
+
+
+
 [![Build Status](https://travis-ci.org/hongymagic/react-number-input.svg?branch=master)](https://travis-ci.org/hongymagic/react-number-input)
 
 # React Number Input component
