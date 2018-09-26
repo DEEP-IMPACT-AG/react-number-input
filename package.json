@@ -1,16 +1,12 @@
 {
-  "name": "react-number-input",
-  "version": "15.5.0",
+  "name": "di-react-number-input",
+  "version": "15.6.0",
   "description": "<input /> for numbers, currency and other important numbers",
   "main": "dist/index.js",
   "author": "hongymagic",
   "repository": {
     "type": "git",
-    "url": "git@github.com:hongymagic/react-number-input.git"
-  },
-  "bugs": {
-    "mail": "davidhong.code@gmail.com",
-    "url": "https://github.com/hongymagic/react-number-input/issues"
+    "url": "https://github.com/DEEP-IMPACT-AG/react-number-input"
   },
   "license": "MIT",
   "keywords": [
